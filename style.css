@@ -1,4 +1,4 @@
-p{
+/* p{
     color : blue;
 }
 .p{
@@ -6,4 +6,46 @@ p{
 }
 #j{
     font-size: 15px;
+}
+.container{
+    padding : 10px;
+}
+#box1{
+    height: 100px;width: 100px;
+    background-color: red;
+    margin: 10px;
+    color : red;
+}
+#box2{
+    height: 100px;width: 100px;
+    background-color: red;
+    display: block;
+    margin-left: 100px;
+    color : cyan;
+}
+#box3{
+    height: 100px;width: 100px;
+    background-color: red;
+    margin-left: 200px;
+    color : blue;
+}
+#box4{
+    height: 100px;width: 100px;
+    background-color: red;
+    margin-left: 300px;
+    color : mediumaquamarine;
+} */
+div{
+    width: 900px;
+    height: 100px;
+    padding: 10px;
+    margin : 10px;
+    border: 10px solid gray;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+p{
+    color: red;
 }
