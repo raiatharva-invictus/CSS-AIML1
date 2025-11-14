@@ -3,3 +3,90 @@ internal styling -
 external styling - 
 
 in padding if their is three then 3 values are first is top secodn is right left third is bottom
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border: 2px solid black;
+            padding: 10px;
+            margin: 5px;
+        }
+        span{
+            display: block;
+            font-size: large;
+        }
+        p{
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+    <span>
+        <div>
+            <span><b>display: block (Headings/Parargraphs)</b></span>
+            <h1>Amazon - Online Shopping</h1>
+            <p>This is a full width paragraph like a blog or product description.</p>
+        </div>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>task2</title>
+    <style>
+      div {
+        border: 2px solid black;
+        width: 500px;
+        padding: 10px;
+        align-content: center;
+      }
+      .spn{
+        display: inline-block;
+        margin: 5px;
+        padding: 5px;
+        /* height: ; */
+      }
+      .spn1 {
+        background-color: yellow;
+        height: 200px;
+        width: 100px;
+      }
+      .spn2 {
+         background-color: pink;
+        height: 200px;
+        width: 100px;
+      }
+      .spn3{
+         background-color: lightblue;
+        height: 200px;
+        width: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>display : inline-block (Product Carts)</h1>
+      <span class="spn spn1">
+        <h3>Book</h3>
+        <h5>&dollar;10</h5>
+    </span>
+      <span class="spn spn2">
+        <h3>Headphones</h3>
+        <h5>&dollar;25</h5>
+        </span>
+      <span class="spn spn3">
+        <h3>Watch</h3>
+        <h5>&dollar;50</h5>
+        </span>
+    </div>
+  </body>
+</html> -->
